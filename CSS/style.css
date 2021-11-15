@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
 /* Header information */
+.header {
+  display: flex;
+}
 .navigation {
   display: flex;
 }
