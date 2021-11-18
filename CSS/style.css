@@ -17,6 +17,7 @@
   color: #000000;
   padding-left: 215px;
   margin-top: 24px;
+  text-decoration: none;
 }
 .nav-list {
   font-family: Roboto;
@@ -34,15 +35,19 @@
   color: #2196f3;
 }
 .studio {
+  text-decoration: none;
 }
 .portfolio {
+  text-decoration: none;
   margin-left: 50px;
 }
 .mail {
+  text-decoration: none;
   margin-top: 32px;
   margin-left: 331px;
 }
 .phone {
+  text-decoration: none;
   margin-top: 32px;
   margin-left: 50px;
 }
